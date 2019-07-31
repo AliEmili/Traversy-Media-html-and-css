@@ -26,6 +26,7 @@ body
     color: var(--light);
     padding: 0.6rem 1.3rem;
     text-decoration: none;
+    text-align: center;
     border: 0;
 }
 
