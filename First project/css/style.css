@@ -130,6 +130,8 @@ ul#services li
     padding-left: 20px;
     padding-right: 20px;
     background: #e8491d;
+    padding-top: 11px;
+    padding-bottom: 26px;
 }
 aside#sidebar
 {
@@ -185,6 +187,10 @@ footer
         width: 100%;
         margin-bottom: 5px;
         
+    }
+    div.dark
+    {
+        margin-left: 40px
     }
 
 }
