@@ -5,10 +5,7 @@
     --light: #fff;
     --shadow: 0 1px 5px rgba(104,104,104,0.8);
 }
-.info img
-{
-    
-}
+
 html
 {
     box-sizing: border-box;
@@ -85,7 +82,8 @@ img
     grid-area: showcase;
     min-height: 400px;
     background: url(../images/IMG_0405.JPG);
-    background-size: contain;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-position: center;
     padding: 3rem;
     display: flex;
