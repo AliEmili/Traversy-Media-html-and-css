@@ -7,3 +7,5 @@ Second Project : it's a responsive page with some pictures and the theme is para
 <br/>
 Third Project : it's a responsive grid website using html & css
 <br/>
+fourth project : it's a simple registration form, it has no backend, only some js codes to check the validation of inputs and showing all the inputs.
+<br/>
