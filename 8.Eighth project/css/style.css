@@ -1,0 +1,36 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.section-search input {
+    padding: 5px !important;
+    font-size: 18px !important;
+    width: 90% !important;
+    border: #f4f4f4 3px solid !important;
+}
+
+.pic {
+    background-position: 0px -290px !important;
+    background-repeat: no-repeat !important;
+}
+
+span {
+    text-transform: capitalize;
+}
+
+.section-follow .fa-4x {
+    margin: 5px 10px;
+}
+
+.triple {
+    height: 170px;
+}
+
+@media (max-width:700px) {
+    .pic {
+        background-size: 100% !important;
+        background-position: center !important;
+        background-size: cover !important;
+
+    }
+}
