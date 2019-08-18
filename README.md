@@ -16,3 +16,5 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Seventh project : A mobile first website. using HTML & CSS & JQUERY
 <br/><br/>
 - Eighth project : A travel agency theme, using html HTML & CSS & MATERIALIZE
+<br/><br/>
+- Ninth project : A split landing page, using HTML & CSS & JAVASCRIPT
