@@ -1,18 +1,18 @@
 # Web Development Practices
-I started my journey of becoming a web developer, so I got  the impression that it can be so helpful to use github in order to manage my exercises. All the codes are learnt from a youtube channel called 'Traversy Media'
-<br/>
+- I started my journey of becoming a web developer, so I got  the impression that it can be so helpful to use github in order to manage my exercises. All the codes are learnt from a youtube channel called 'Traversy Media'
+<br/><br/>
 First Project : it's responsive page I designed using HTML & Css.
-<br/>
+<br/><br/>
 Second Project : it's a responsive page with some pictures and the theme is parallax so when you scroll the images you can se different parts of them using HTML & CSS
-<br/>
+<br/><br/>
 Third Project : it's a responsive grid website using HTML & CSS
-<br/>
+<br/><br/>
 Fourth project : it's registration form, it has no backend, only some JS codes to check the validation of inputs and showing all the inputs.
-<br/>
+<br/><br/>
 Fifth project : it's the website of Netflix - I've added some lines of codes to make it more responsive. using HTML & CSS & JAVASCRIPT, for the functionality.
-<br/>
+<br/><br/>
 Sixth project : it's a responsive page using HTML & CSS & FLEXBOXGRID
-<br/>
+<br/><br/>
 Seventh project : A responsive, mobile first website. using HTML & CSS & JQUERY
-<br/>
+<br/><br/>
 Eighth project : A travel agency theme, using html HTML & CSS & MATERIALIZE
