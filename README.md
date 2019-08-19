@@ -23,4 +23,6 @@ I started my journey of becoming a web developer, so I got  the impression that 
 <br/><br/>
 - Eleventh project : CSS variables tutorial (CSS custom properties), using HTML & CSS & JAVASCRIPT
 <br/><br/>
-- Twelfth project : CSS3 Animations & transitions, using HTML & CSS
+- Twelfth project : CSS3 animations & transitions, using HTML & CSS
+<br/><br/>
+- Thirteenth project : A full screen landing page, using HTML & CSS
