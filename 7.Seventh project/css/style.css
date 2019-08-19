@@ -53,7 +53,7 @@ main {
 }
 
 #landing-image {
-    background: url(../images/pic.jpg);
+    background: url("https://source.unsplash.com/600x900/?photography");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;

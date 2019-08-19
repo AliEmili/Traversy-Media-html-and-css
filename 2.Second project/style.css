@@ -26,23 +26,19 @@ body,html
 
 .pimg1
 {
-    background-image: url('image1.jpg');
+    background-image: url('https://source.unsplash.com/1300x800/?laptop');
     min-height: 100%;
-    background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-color: #282e34;
 }
 
 .pimg2
 {
-    background-image: url('image2.jpg');
+    background-image: url('https://source.unsplash.com/1300x800/?webdevelopment');
     min-height: 100%;
 }
 
 .pimg3
 {
-    background-image: url('image3.jpg');
+    background-image: url('https://source.unsplash.com/1300x800/?development');
     min-height: 100%;
 }
 

@@ -1,22 +1,19 @@
-body
-{
+body {
     margin: 0;
     padding: 0;
-    font-family: sans-serif,serif;
+    font-family: sans-serif, serif;
     font-size: 15px;
     line-height: 2;
     background-color: #f4f4f4;
 }
 
-.container
-{
+.container {
     width: 80%;
     margin: auto;
     overflow: hidden;
 }
 
-header
-{
+header {
     background-color: #35424a;
     color: #ffffff;
     padding-top: 30px;
@@ -24,90 +21,88 @@ header
     border-bottom: #e8491d 3px solid;
 }
 
-header a
-{
+header a {
     color: white;
     text-decoration: none;
     text-transform: uppercase;
     font-size: 16px;
 }
 
-header ul
-{
+header ul {
     margin: 0;
     padding: 0;
 }
-header li
-{
+
+header li {
     display: inline;
     float: left;
     padding: 0 20px 0 20px;
 }
 
-header #branding
-{
+header #branding {
     float: left;
 }
 
-header #branding h1
-{
+header #branding h1 {
     margin: 0;
 }
-header nav
-{
+
+header nav {
     float: right;
     margin-top: 10px;
 }
 
-header .highlight,header .current a
-{
+header .highlight,
+header .current a {
     color: #e8491d;
     font-weight: bold;
 }
 
-header a:hover
-{
+header a:hover {
     color: #cccccc;
     font-weight: bold;
 }
-#showcase
-{
+
+#showcase {
     min-height: 400px;
-    background-image: url("../images/image.jpg");
+    background-image: url("https://source.unsplash.com/1600x400/?webdevelopment");
     background-repeat: no-repeat;
     background-position: center;
-    background-color: #35424a;
+    background-size: cover;
     text-align: center;
     color: white;
-    
+
 }
-#showcase h1
-{
+
+#showcase h1 {
     margin-top: 100px;
     font-size: 55px;
     margin-bottom: 10px;
 }
-#newsletter
-{
+
+#newsletter {
     padding: 15px;
     color: white;
     background: #35424a;
 }
-#newsletter h1
-{
+
+#newsletter h1 {
     float: left;
 }
-#newsletter form
-{
+
+#newsletter form {
     float: right;
     margin-top: 15px;
 }
-#newsletter input[type="email"]{
+
+#newsletter input[type="email"] {
     padding: 4px;
     height: 25px;
     width: 250px;
 }
-.dark,.dark-services{
+
+.dark,
+.dark-services {
     padding: 15px;
     background: #34524a;
     color: white;
@@ -115,16 +110,16 @@ header a:hover
     margin-bottom: 10px;
     text-align: center;
 }
-ul#services li
-{
+
+ul#services li {
     list-style: none;
     padding: 20px;
     border: #cccccc solid 1px;
     margin-bottom: 5px;
     background-color: #e6e6e6;
 }
-.button_1
-{
+
+.button_1 {
     color: white;
     height: 30px;
     border: 0;
@@ -134,67 +129,76 @@ ul#services li
     padding-top: 11px;
     padding-bottom: 26px;
 }
-aside#sidebar
-{
+
+aside#sidebar {
     float: right;
     width: 30%;
     margin-top: 10px;
 }
-article#main-col
-{
+
+article#main-col {
     float: left;
     width: 65%;
 }
-#boxes .box
-{
+
+#boxes .box {
     float: left;
     width: 30%;
     text-align: center;
     padding: 10px;
 }
-#boxes .box img
-{
+
+#boxes .box img {
     width: 90px;
 }
-footer
-{
+
+footer {
     padding: 20px;
     margin-top: 20px;
     color: white;
     background-color: #e8491d;
     text-align: center
 }
-@media(max-width :768px)
-{
-    header #branding,header nav,header nav li,#newsletter h1,#newsletter form,#boxes .box,article#main-col,aside#sidebar{
+
+@media(max-width :768px) {
+
+    header #branding,
+    header nav,
+    header nav li,
+    #newsletter h1,
+    #newsletter form,
+    #boxes .box,
+    article#main-col,
+    aside#sidebar {
         float: none;
         text-align: center;
         width: 100%;
     }
-    header
-    {
+
+    header {
         padding-bottom: 20px;
     }
-    #showcase h1
-    {
+
+    #showcase h1 {
         margin-top: 40px;
     }
-    #services
-    {
+
+    #services {
         padding: 10px;
     }
-    #newsletter button
-    {
+
+    #newsletter button {
         display: block;
         width: 100%;
     }
-    #newsletter form input[type="email"]{
+
+    #newsletter form input[type="email"] {
         width: 100%;
         margin-bottom: 5px;
-        
+
     }
-    .dark-services
-    {
+
+    .dark-services {
         margin-left: 10px;
         margin-right: 10px;
     }
