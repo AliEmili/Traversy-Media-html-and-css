@@ -18,3 +18,9 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Eighth project : A travel agency theme, using html HTML & CSS & MATERIALIZE
 <br/><br/>
 - Ninth project : A split landing page, using HTML & CSS & JAVASCRIPT
+<br/><br/>
+- Tenth project : A text background animation, using HTML & CSS
+<br/><br/>
+- Eleventh project : CSS variables tutorial (CSS custom properties), using HTML & CSS & JAVASCRIPT
+<br/><br/>
+- Twelfth project : CSS3 Animations & transitions, using HTML & CSS
