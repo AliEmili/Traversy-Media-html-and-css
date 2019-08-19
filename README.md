@@ -1,5 +1,5 @@
 # Web Development Practices
-I started my journey of becoming a web developer, so I got  the impression that it can be so helpful to use github in order to manage my exercises. All the codes are learnt from a youtube channel called 'Traversy Media'
+I started my journey of becoming a web developer, so I got  the impression that it can be so helpful to use github in order to manage my exercises. All the codes are learnt from a youtube channel called 'Traversy Media' and also all of them are responsive.
 <br/><br/>
 - First Project : A simple page using HTML & Css.
 <br/><br/>
@@ -26,3 +26,5 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Twelfth project : CSS3 animations & transitions, using HTML & CSS
 <br/><br/>
 - Thirteenth project : A full screen landing page, using HTML & CSS
+<br/><br/>
+- A responsive CSS3 pricing tables
