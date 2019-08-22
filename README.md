@@ -27,6 +27,6 @@ I started my journey of becoming a web developer, so I got  the impression that 
 <br/><br/>
 - Thirteenth project : A full screen landing page, using HTML & CSS
 <br/><br/>
-- A responsive CSS3 pricing tables
+- Fourteenth project : A responsive CSS3 pricing tables
 <br/><br/>
-- A full screen image slider,no libraries, using HTML & CSS & JAVASCRIPT
+- Fifteenth project : A full screen image slider,no libraries, using HTML & CSS & JAVASCRIPT
