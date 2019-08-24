@@ -31,6 +31,4 @@ I started my journey of becoming a web developer, so I got  the impression that 
 <br/><br/>
 - Fifteenth project : A full screen image slider,no libraries, using HTML & CSS & JAVASCRIPT
 <br/><br/>
-- Sixteenth project : A full screen vide background, using HTML & CSS,
-<br/>
-* note that the video is not included but commented where to add it.
+- Sixteenth project : A full screen vide background, using HTML & CSS, note that the video is not included but commented where to add it.
