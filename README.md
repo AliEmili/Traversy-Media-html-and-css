@@ -32,3 +32,5 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Fifteenth project : A full screen image slider,no libraries, using HTML & CSS & JAVASCRIPT
 <br/><br/>
 - Sixteenth project : A full screen vide background, using HTML & CSS, note that the video is not included but commented where to add it.
+<br/><br/>
+- Seventeenth project : An elegant landing page with blur effect, using HTML & CSS
