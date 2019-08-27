@@ -45,4 +45,4 @@ I started my journey of becoming a web developer, so I got  the impression that 
 <br/><br/>
 - Twenty second project : Three different CSS loaders that one of them is available and the others are commented.
 <br/><br/>
-- Twenty third project : A side menu form, using HTML & CSS & JAVASCRIPT
+- Twenty third project : A side menu form, using HTML & CSS & JAVASCRIPT.
