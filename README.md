@@ -34,3 +34,13 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Sixteenth project : A full screen vide background, using HTML & CSS, note that the video is not included but commented where to add it.
 <br/><br/>
 - Seventeenth project : An elegant landing page with blur effect, using HTML & CSS
+<br/><br/>
+- Eighteenth project : A landing page with smooth scroll, 3 Options included, using HTML & CSS & JAVASCRIPT & JQUERY & SMOOTHSCROLL
+<br/><br/>
+- Nineteenth project : A mobile first contact form featuring grid css, using HTML & CSS
+<br/><br/>
+- Twentieth project : Pluralsight login page clone, using HTML & CSS
+<br/><br/>
+- Twenty first project : Pure CSS hamburger menu & overlay
+<br/><br/>
+- Twenty second project : CSS loaders
