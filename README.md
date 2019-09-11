@@ -68,3 +68,5 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - Thirty third project : A grid website layout, mobile first design, using HTML & CSS.
 <br/><br/>
 - Thirty fourth project : A product landing page, build & deploy, using HTML & CSS & NETLIFY.
+<br/><br/>
+- Thirty fifth project : An animate on scroll webpage, using HTML & CSS & AOS LIBRARY.
