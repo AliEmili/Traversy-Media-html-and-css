@@ -72,3 +72,5 @@ I started my journey of becoming a web developer, so I got  the impression that 
 - 35 : An animate on scroll webpage, using HTML & CSS & AOS LIBRARY.
 <br/><br/>
 - 36 : A cheatsheet for SEMANTIC UI framework.
+<br/><br/>
+- 37 : Microsoft Homepage clone. CSS GRID, FLEX, MEDIA QUERIES.
